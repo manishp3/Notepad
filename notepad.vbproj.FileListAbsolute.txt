@@ -1,0 +1,10 @@
+D:\vb_net\notepad\notepad\bin\Debug\notepad.exe
+D:\vb_net\notepad\notepad\bin\Debug\notepad.pdb
+D:\vb_net\notepad\notepad\bin\Debug\notepad.xml
+D:\vb_net\notepad\notepad\obj\Debug\ResolveAssemblyReference.cache
+D:\vb_net\notepad\notepad\obj\Debug\notepad.Form1.resources
+D:\vb_net\notepad\notepad\obj\Debug\notepad.Resources.resources
+D:\vb_net\notepad\notepad\obj\Debug\notepad.vbproj.GenerateResource.Cache
+D:\vb_net\notepad\notepad\obj\Debug\notepad.exe
+D:\vb_net\notepad\notepad\obj\Debug\notepad.xml
+D:\vb_net\notepad\notepad\obj\Debug\notepad.pdb
